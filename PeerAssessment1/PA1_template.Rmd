@@ -4,7 +4,7 @@ author: "Faisal Sardar"
 date: "Saturday, May 16, 2015"
 output: html_document
 ---
-```{r,echo=FALSE, warning = FALSE}
+```{r,echo=FALSE, warning = FALSE, include=FALSE}
 library(data.table)
 library(ggplot2)
 library(plyr)
