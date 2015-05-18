@@ -12,10 +12,6 @@ library(lattice)
 library(knitr)
 opts_chunk$set(fig.path="figure/")
 ```
-#setwd("C:/Users/FS/Dropbox/DataScience/05-ReproducibleResearch/PA1")
-#setwd("C:/Users/Faisal/Dropbox/DataScience/05-ReproducibleResearch/PeerAssessment1")
-#opts_knit$set(base.dir = './')
-```
 
 <br>
 
